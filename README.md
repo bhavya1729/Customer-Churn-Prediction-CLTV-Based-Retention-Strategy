@@ -13,15 +13,7 @@ This project evaluates key patterns in churn across different customer cohorts, 
 
 ---
 
-## Dataset Overview
-
-The dataset consists of customer-level records capturing:
-- **Subscription and plan details**
-- **Monthly charges and total revenue**
-- **Customer lifetime value (CLTV)**
-- **Satisfaction scores and referrals**
-- **Usage metrics (long-distance charges, downloads, etc.)**
-- **Churn status (binary target)**
+## Dataset : https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3
 
 ---
 
