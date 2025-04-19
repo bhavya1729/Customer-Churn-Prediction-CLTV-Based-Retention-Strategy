@@ -13,7 +13,8 @@ This project evaluates key patterns in churn across different customer cohorts, 
 
 ---
 
-## Dataset : https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3
+## Dataset :
+https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3
 
 ---
 
