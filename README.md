@@ -76,21 +76,21 @@ The dataset consists of customer-level records capturing:
 | **3+ Years**     | 11.9%      | *Most stable and profitable segment*                     |
 
 ### Retention Recommendations:
-- ✅ **Onboarding fixes**: Simplify signup, reward first-week success  
-- 🔄 **Check-in offers**: 3-month engagement campaigns  
-- 🎯 **Anniversary upgrades**: 22-month loyalty offers  
-- 💎 **Referrals + Upsells**: For 3+ year cohort  
+- **Onboarding fixes**: Simplify signup, reward first-week success  
+- **Check-in offers**: 3-month engagement campaigns  
+- **Anniversary upgrades**: 22-month loyalty offers  
+- **Referrals + Upsells**: For 3+ year cohort  
 
 ---
 
 ## Model Performance
 
-### 🎯 Random Forest Classifier
+###  Random Forest Classifier
 ```
 Precision: 0.95 | Recall: 0.95 | F1 Score: 0.95 | Accuracy: 97%
 ```
 
-### 🚀 XGBoost Classifier (Best)
+###  XGBoost Classifier (Best)
 ```
 Precision: 0.97 | Recall: 0.95 | F1 Score: 0.96 | Accuracy: 97%
 ```
