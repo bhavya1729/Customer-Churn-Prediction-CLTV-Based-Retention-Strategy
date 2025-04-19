@@ -1,5 +1,11 @@
 # Customer Churn Prediction & CLTV-Based Retention Strategy | Telecom Sector
-
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)   
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-Array%20Computing-013243?logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Graphics-2E6E9E?logo=python&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-FF9900?logo=scikitlearn&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-EC2D01?logo=python&logoColor=white)  
 
 The goal of this project is to analyze churn behavior, identify risk factors, and provide actionable recommendations to improve retention and maximize customer lifetime value (CLTV).
 
